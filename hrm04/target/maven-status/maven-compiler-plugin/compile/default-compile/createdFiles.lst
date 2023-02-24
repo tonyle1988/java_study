@@ -1,0 +1,9 @@
+fa/training/Main.class
+fa/training/dao/JobDaoImpl.class
+fa/training/entities/Projects.class
+fa/training/utils/HibernateUtils.class
+fa/training/entities/Jobs.class
+fa/training/dao/ProjectDaoImpl.class
+fa/training/entities/Employees.class
+fa/training/dao/JobDao.class
+fa/training/dao/ProjectDao.class
